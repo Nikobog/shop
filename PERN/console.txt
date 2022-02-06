@@ -1,0 +1,17 @@
+
+Клиент
+npx create-react-app .
+npm i jwt-decode
+npm i dotenv
+npm install react-bootstrap bootstrap
+npm i axios react-router-dom mobx mobx-react-lite
+npm i jsonwebtoken bcrypt
+npm i uuid
+npm install express-fileupload
+npm start
+
+Сервер
+npm init -y
+npm install -D nodemon
+npm install express pg pg-hstore sequelize cors dotenv
+npm run dev
